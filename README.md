@@ -21,6 +21,21 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2059%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Java                     10 hrs 56 mins      ███████████████████████░░   91.34 % 
+HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+💻 Operating System: 
+Windows                  11 hrs 59 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -34,5 +49,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 18:41:43 UTC
+ Last Updated on 10/02/2025 18:43:47 UTC
 <!--END_SECTION:waka-->
