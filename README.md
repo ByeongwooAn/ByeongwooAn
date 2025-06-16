@@ -46,7 +46,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByeongwooAn)](https://wakatime.com/@7b3cc1c2-abab-4e56-8832-4efac8acdaac)
+[![ByeongwooAn's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByeongwooAn)](https://wakatime.com/@ByeongwooAn)
 
 <br>
 
