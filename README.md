@@ -19,7 +19,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2035%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,11 +27,14 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Vue.js                   58 mins             ██████████████████████░░░   86.59 % 
-JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Vue.js                   3 hrs 35 mins       ████████████████████░░░░░   78.95 % 
+Java                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+JavaScript               18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Groovy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -46,9 +49,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
-[![ByeongwooAn's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByeongwooAn)](https://wakatime.com/@ByeongwooAn)
 
-<br>
-
- Last Updated on 15/06/2025 18:48:12 UTC
+ Last Updated on 16/06/2025 18:52:21 UTC
 <!--END_SECTION:waka-->
