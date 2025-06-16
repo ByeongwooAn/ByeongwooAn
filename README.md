@@ -46,6 +46,9 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abyungwoo@gmail.com)](https://wakatime.com/@7b3cc1c2-abab-4e56-8832-4efac8acdaac)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByeongwooAn)](https://wakatime.com/@7b3cc1c2-abab-4e56-8832-4efac8acdaac)
+
+<br>
+
  Last Updated on 15/06/2025 18:48:12 UTC
 <!--END_SECTION:waka-->
