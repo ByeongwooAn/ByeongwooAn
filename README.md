@@ -47,8 +47,9 @@ JavaScript               1 repo              █░░░░░░░░░░�
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
+[![ByeongwooAn's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ByeongwooAn)](https://wakatime.com/@ByeongwooAn)
 
-
+<br>
 
  Last Updated on 16/06/2025 18:52:21 UTC
 <!--END_SECTION:waka-->
