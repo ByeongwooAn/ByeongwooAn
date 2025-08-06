@@ -44,7 +44,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2048%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -75,5 +75,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2025 18:59:03 UTC
+ Last Updated on 06/08/2025 18:56:17 UTC
 <!--END_SECTION:waka-->
