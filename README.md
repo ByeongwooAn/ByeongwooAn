@@ -52,10 +52,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-IDEA_MODULE              0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +71,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 18:46:26 UTC
+ Last Updated on 01/09/2025 18:47:40 UTC
 <!--END_SECTION:waka-->
