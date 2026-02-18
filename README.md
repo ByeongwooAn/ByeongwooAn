@@ -52,11 +52,10 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     7 mins              ████████████████████████░   95.91 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -72,5 +71,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 19:29:04 UTC
+ Last Updated on 18/02/2026 19:29:50 UTC
 <!--END_SECTION:waka-->
