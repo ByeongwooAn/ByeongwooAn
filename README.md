@@ -44,7 +44,7 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-581%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -52,28 +52,28 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     5 hrs 58 mins       █████████████░░░░░░░░░░░░   53.97 % 
-Vue                      2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-Java Properties          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Java                     6 hrs 22 mins       █████████████░░░░░░░░░░░░   52.26 % 
+Vue                      2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+XML                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Java Properties          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Windows                  11 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Java                     7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Vue                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 12/06/2026 20:37:24 UTC
+ Last Updated on 13/06/2026 20:04:19 UTC
 <!--END_SECTION:waka-->
