@@ -54,34 +54,32 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    22 mins             █████████████████░░░░░░░░   67.53 % 
-Java Properties          10 mins             ████████░░░░░░░░░░░░░░░░░   30.37 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Other                    17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (84.0%)
+⏱ AI Coding Time: 17 mins (100.0%)
 
-✍️ 88 lines written by AI, 11 lines written by hand (88.89% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 152,101 Input Tokens, 12,750 Output Tokens
+🔤 87,979 Input Tokens, 4,428 Output Tokens
 
-💵 $1.55 Estimated AI Cost This Week
+💵 $0.73 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-GPT                      88 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.89% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.87% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Java** 
@@ -97,5 +95,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:39:31 UTC
+ Last Updated on 06/09/2026 20:44:19 UTC
 <!--END_SECTION:waka-->
