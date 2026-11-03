@@ -44,28 +44,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2024%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2024%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -79,5 +57,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2026 01:10:01 UTC
+ Last Updated on 03/11/2026 23:35:48 UTC
 <!--END_SECTION:waka-->
